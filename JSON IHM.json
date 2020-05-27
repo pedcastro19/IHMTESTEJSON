@@ -1,0 +1,153 @@
+[
+  {
+    "name": "Pudim Flan",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2093717(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Pudim Flan Continente 80gr ",
+    "price": 0.49,
+    "isOnSale": true
+  },
+  {
+    "name": "Paté de Camarão",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5966037(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Paté de Camarão Continente 80gr",
+    "price": 1.79,
+    "isOnSale": false
+  },
+  {
+    "name": "Doce Extra Mirtilos",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4377804(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Doce Extra Mirtilos Continente 375gr",
+    "price": 1.29,
+    "isOnSale": false
+  },
+  {
+    "name": "Bolacha Soft Cake Laranja",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4088709(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Bolacha Soft Cake Laranja Continente 300gr",
+    "price": 1.19,
+    "isOnSale": false
+  },
+  {
+    "name": "Milho Doce",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6432839(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Milho Doce Continente 3 x 150gr",
+    "price": 1.29,
+    "isOnSale": true
+  },
+  {
+    "name": "Esparguete Tricolor",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6644072(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Esparguete Tricolor Continente 500gr",
+    "price": 0.74
+  },
+  {
+    "name": "Feijão Manteiga Cozido",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2859483(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Feijão Manteiga Cozido Continente 830gr",
+    "price": 0.9,
+    "isOnSale": false
+  },
+  {
+    "name": "Línguas de Gato",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5470544(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Línguas de Gato Continente 200gr",
+    "price": 29.49,
+    "isOnSale": true
+  },
+  {
+    "name": "Cereais Chocolate Chocapic",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6950837(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Chocolate Chocapic Nestlé 740gr",
+    "price": 4.99,
+    "isOnSale": false
+  },
+  {
+    "name": "Cereais Multi Cheerios",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2060101(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Multi Cheerios Nestlé 375gr",
+    "price": 3.29,
+    "isOnSale": false
+  },
+  {
+    "name": "Cereais Caramelo e Chocolate Lion",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4436846(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Caramelo e Chocolate Lion 400gr",
+    "price": 2.99,
+    "isOnSale": false
+  },
+  {
+    "name": "Cereais com Chocolate Crunch",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2572402(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais com Chocolate Crunch 375gr",
+    "price": 3.29,
+    "isOnSale": true
+  },
+  {
+    "name": "Cereais Canela Golden Grahams",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2392491(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Canela Golden Grahams 375gr",
+    "price": 3.29
+  },
+  {
+    "name": "Cereais Chocolate Chocapic",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2004742(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Chocolate Chocapic 375gr",
+    "price": 2.79,
+    "isOnSale": false
+  },
+  {
+    "name": "Cereais Trigo, Mel e Aveia Cheerios",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2024560(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Trigo, Mel e Aveia Cheerios 375gr",
+    "price": 3.29,
+    "isOnSale": true
+  },
+  {
+    "name": "Cereais Chocolate Duo Chocapic",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5297767(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Chocolate Duo Chocapic 400gr",
+    "price": 3.09,
+    "isOnSale": false
+  },
+  {
+    "name": "Cereais Lion Wild",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=7068454(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Lion Wild 410gr",
+    "price": 3.59,
+    "isOnSale": false
+  },
+  {
+    "name": "Massa Macarronete GR Penne",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2665109(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Massa Macarronete GR Penne 500gr",
+    "price": 0.52,
+    "isOnSale": false
+  },
+  {
+    "name": "Massa Espirais sem Glúten",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5356288(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Massa Espirais sem Glúten 500gr",
+    "price": 1.49,
+    "isOnSale": true
+  },
+  {
+    "name": "Massa Espirais Tricolores Fusilli",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2003334(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Massa Espirais Tricolores Fusilli 500gr",
+    "price": 0.69
+  },
+  {
+    "name": "Mezze Penne Tricolor",
+    "photo_url": "https://finepointmobile.com/data/jeans3.jpg",
+    "description": "Mezze Penne Tricolor 500gr",
+    "price": 2.09,
+    "isOnSale": false
+  },
+  {
+    "name": "Massa Pennette Integral",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6748431(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Massa Pennette Integral 500gr",
+    "price": 9.95,
+    "isOnSale": true
+  }
+]
