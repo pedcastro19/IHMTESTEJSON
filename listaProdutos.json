@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Pudim Flan",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2093717(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Pudim Flan Continente 80gr ",
+    "price": 0.49,
+    "isOnSale": true
+  },
+  {
+    "name": "Doce Extra Mirtilos",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4377804(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Doce Extra Mirtilos Continente 375gr",
+    "price": 1.29,
+    "isOnSale": false
+  },
+  {
+    "name": "Bolacha Soft Cake Laranja",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4088709(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Bolacha Soft Cake Laranja Continente 300gr",
+    "price": 1.19,
+    "isOnSale": false
+  },
+  {
+    "name": "Milho Doce",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6432839(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Milho Doce Continente 3 x 150gr",
+    "price": 1.29,
+    "isOnSale": true
+  },
+  {
+    "name": "Esparguete Tricolor",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6644072(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Esparguete Tricolor Continente 500gr",
+    "price": 0.74,
+    "isOnSale": true
+  },
+  {
+    "name": "Feijão Manteiga Cozido",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2859483(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Feijão Manteiga Cozido Continente 830gr",
+    "price": 0.9,
+    "isOnSale": false
+  },
+  {
+    "name": "Línguas de Gato",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5470544(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Línguas de Gato Continente 200gr",
+    "price": 29.49,
+    "isOnSale": false
+  },
+  {
+    "name": "Cereais Chocolate Chocapic",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6950837(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Chocolate Chocapic Nestlé 740gr",
+    "price": 4.99,
+    "isOnSale": false
+  },
+  {
+    "name": "Cereais Multi Cheerios",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2060101(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Multi Cheerios Nestlé 375gr",
+    "price": 3.29,
+    "isOnSale": false
+  },
+  {
+    "name": "Cereais Caramelo e Chocolate Lion",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4436846(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Caramelo e Chocolate Lion 400gr",
+    "price": 2.99,
+    "isOnSale": true
+  },
+  {
+    "name": "Cereais com Chocolate Crunch",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2572402(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais com Chocolate Crunch 375gr",
+    "price": 3.29,
+    "isOnSale": true
+  },
+  {
+    "name": "Cereais Canela Golden Grahams",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2392491(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Canela Golden Grahams 375gr",
+    "price": 3.29,
+    "isOnSale": false
+  },
+  {
+    "name": "Cereais Chocolate Chocapic",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2004742(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Chocolate Chocapic 375gr",
+    "price": 2.79,
+    "isOnSale": false
+  },
+  {
+    "name": "Cereais Trigo, Mel e Aveia Cheerios",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2024560(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Trigo, Mel e Aveia Cheerios 375gr",
+    "price": 3.29,
+    "isOnSale": true
+  },
+  {
+    "name": "Cereais Chocolate Duo Chocapic",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5297767(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Chocolate Duo Chocapic 400gr",
+    "price": 3.09,
+    "isOnSale": false
+  },
+  {
+    "name": "Cereais Lion Wild",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=7068454(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cereais Lion Wild 410gr",
+    "price": 3.59,
+    "isOnSale": true
+  },
+  {
+    "name": "Massa Macarronete GR Penne",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2665109(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Massa Macarronete GR Penne 500gr",
+    "price": 0.52,
+    "isOnSale": false
+  },
+  {
+    "name": "Massa Espirais sem Glúten",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5356288(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Massa Espirais sem Glúten 500gr",
+    "price": 1.49,
+    "isOnSale": true
+  },
+  {
+    "name": "Massa Espirais Tricolores Fusilli",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2003334(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Massa Espirais Tricolores Fusilli 500gr",
+    "price": 0.69,
+    "isOnSale": false
+  },
+  {
+    "name": "Mezze Penne Tricolor",
+    "photo_url": "https://finepointmobile.com/data/jeans3.jpg",
+    "description": "Mezze Penne Tricolor 500gr",
+    "price": 2.09,
+    "isOnSale": true
+  },
+  {
+    "name": "Massa Pennette Integral",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6748431(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Massa Pennette Integral 500gr",
+    "price": 9.95,
+    "isOnSale": true
+  },
+  {
+    "name": "Peito de Frango do Campo",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2818787(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Peito de Frango 610gr",
+    "price": 8.99,
+    "isOnSale": false
+  },
+  {
+    "name": "Bifinhos de lombo de Porco",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4927137(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Bifinhos de lombo de Porco 430gr",
+    "price": 4.79,
+    "isOnSale": false
+  },
+  {
+    "name": "Coelho Inteiro",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3882256(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Coelho Inteiro 1.3kg(aprox). Preço por kilo",
+    "price": 4.79,
+    "isOnSale": true
+  },
+  {
+    "name": "Robalo Inteiro",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4302565(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Robalo Inteiro 700gr(aprox). Preço por kilo",
+    "price": 6.45,
+    "isOnSale": false
+  },
+   {
+    "name": "Linguado Selvagem",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4103689(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Linguado Selvagem 390gr(aprox). Preço por kilo",
+    "price": 13.99,
+    "isOnSale": false
+  },
+   {
+    "name": "Salmão Inteiro",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2148068(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Salmão Inteiro 3.9kg(aprox). Preço por kilo",
+    "price": 8.99,
+    "isOnSale": true
+  },
+   {
+    "name": "Cenoura Embalada",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2885107(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cenoura Emabalada. Embalagem de 1 Kilo.",
+    "price":0.49,
+    "isOnSale": false
+  },
+     {
+    "name": "Cebola Embalada",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4618134(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cebola Emabalada. Embalagem de 1.5 Kilo.",
+    "price":1.29,
+    "isOnSale": false
+  },
+   {
+    "name": "Couve Broculo",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2076764(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Couve Broculo. Unidade 440gr.",
+    "price":1.59,
+    "isOnSale": false
+   },
+   {
+    "name": "Abacaxi Gold",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2230127(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Abacaxi Gold. Unidade 1980gr. Preço por kilo",
+    "price":0.99,
+    "isOnSale": false
+   },
+   {
+    "name": "Bananas das Canarias Embaladas",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5088162(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Embalagem com 850gr(aproximadamente)",
+    "price":1.99,
+    "isOnSale": false
+   },
+    {
+    "name": "Maça Golden Alcobaça",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5594279(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Embalagem com 1200gr(aproximadamente)",
+    "price":1.29,
+    "isOnSale": false
+   },
+    {
+    "name": "Agua sem Gas",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4466419(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Embalagem de Agua sem Gas de 6x1.5L.",
+    "price":2.74,
+    "isOnSale": false
+   },
+    {
+    "name": "Agua sem Gas Garrafão",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5096262(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Agua sem Gas Garrafão de 7Litros.",
+    "price":1.85,
+    "isOnSale": false
+   },
+    {
+    "name": "Agua Mineral Natural Gasocarbonica",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4114749(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Agua Mineral Natural Gasocarbonica. Embalagem de 4x1L",
+    "price":2.94,
+    "isOnSale": false
+   },
+    {
+    "name": "Nector Laranja Algarve",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5704185(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Nector Laranja Algarve. Emabalagem de 3x20cl.",
+    "price":1.11,
+    "isOnSale": false
+   },
+    {
+    "name": "Refrigerante Sunny",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5113621(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Refrigerante Sunny. Embalagem de 1.25lt",
+    "price":1.39,
+    "isOnSale": false
+   },
+   {
+    "name": "Refrigerante com Gas Coca Cola",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4070364(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Refrigerante com Gas Coca Cola. Embalagem de 4x1lt",
+    "price":4,
+    "isOnSale": false
+   },
+   {
+    "name": "Vinho Maria DOC Dão Tinto",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6939298(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Vinho Maria DOC Dão Tinto. Garrafa de 75cl",
+    "price":2.89,
+    "isOnSale": false
+   },
+    {
+    "name": "Mocho Galego Signature Regional Alentejano Tinto",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6649900(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Mocho Galego Signature Regional Alentejano Tinto. Garrafa de 75cl",
+    "price":4.79,
+    "isOnSale": false
+   },
+    {
+    "name": "Cerveja com Alcool(mini) Super Bock",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6148284(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Cerveja com Alcool(mini) Super Bock. Embalagem de 30x25cl ",
+    "price":12.49,
+    "isOnSale": false
+   },
+    {
+    "name": "Iogurte Skyr Natural",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6306839(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Iogurte Skyr Natural. Emabalagem de 125gr",
+    "price":0.79,
+    "isOnSale": false
+   },
+    {
+    "name": "Iogurte Liquido Tutti Frutti",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6078858(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Iogurte Liquido Tutti Frutti. Embalagem de 8x160gr",
+    "price":3.29,
+    "isOnSale": false
+   },
+   {
+    "name": "Leite UHT Meio Gordo Matinal",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4362670(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Leite UHT Meio Gordo Matinal. Emabalagem de 6x1l",
+    "price":4.16,
+    "isOnSale": false
+   },
+   {
+    "name": "Leite UHT Meio Gordo Mimosa",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3579522(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Leite UHT Meio Gordo Mimosa. Embalagem de 3x200ml. Preço por Unidade",
+    "price":0.87,
+    "isOnSale": false
+   },
+   {
+    "name": "Papel Higienico Compact",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6265913(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Papel Higienico Compact. Embalagem de 18 rolos",
+    "price":8.44,
+    "isOnSale": false
+   },
+   {
+    "name": "Pasta dentrifica anti-caries",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6456229(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Pasta dentrifica anti-carie Colgate. Embalagem 2x75ml",
+    "price":3.01,
+    "isOnSale": false
+   },
+   {
+    "name": "Champo Prevensão Queda H&S",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6420588(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Champo Prevensão Queda H&S. Embalagem com 380 ml",
+    "price":3.47,
+    "isOnSale": false
+   },
+   {
+    "name": "Gel de Banho Naturals Palmolive",
+    "photo_url": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6506914(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=150&height=150&defaultOptions=1",
+    "description": "Gel de Banho Naturals Palmolive. Emabalagem com 500ml",
+    "price":2.00,
+    "isOnSale": false
+   }
+   
+]
